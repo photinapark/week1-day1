@@ -1,4 +1,3 @@
-    <style>
         header {
             background: url(images/central_park.jpg) 0 -200px no-repeat; /* place image as background */ 
             background-size: 1500px; 
@@ -30,7 +29,6 @@
             padding-top: 2px;
         }
         main {
-            height: 400px; /*give some height to get a better sense of how the page could look like */ 
         }
         main h1 {
             color:rgb(129, 141, 179); 
@@ -43,4 +41,3 @@
             padding-top: 20px;
             color:rgb(211, 218, 240);
         }
-    </style>
